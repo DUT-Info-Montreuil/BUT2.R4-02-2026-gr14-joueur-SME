@@ -1,4 +1,4 @@
-package org.univ_paris8.iut.montreuil.qdev.tp2026.gr14.utils.exceptions;
+package org.univ_paris8.iut.montreuil.qdev.tp2026.gr14;
 
 /**
  * Hello world!
