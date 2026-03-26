@@ -1,6 +1,5 @@
 package org.univ_paris8.iut.montreuil.qdev.tp2026.gr14.common.dtos;
 
-import org.univ_paris8.iut.montreuil.qdev.tp2026.gr14.Interfaces.IserviceJoueur;
 import org.univ_paris8.iut.montreuil.qdev.tp2026.gr14.common.enums.LangueEnum;
 
 public class JoueurDTO {
