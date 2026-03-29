@@ -1,4 +1,7 @@
 package org.univ_paris8.iut.montreuil.qdev.tp2026.gr14.utils.exceptions;
 
 public class LangueInvalideException extends DonneeInvalideException {
+    public LangueInvalideException(String message) {
+        super(message);
+    }
 }
